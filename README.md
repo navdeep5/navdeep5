@@ -4,7 +4,13 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Computer Science and Bioinformatics Student
 -------------------------------------------
 
-👋 Hi there! I'm Navdeep Singh, a Computer Science major with a passion for leveraging technology to solve real-world problems. With a background in Machine Learning and Artificial Intelligence, I'm deeply immersed in the world of software development and data science. 🎓 I hold a degree in Computer Science with a minor in Bioinformatics from the University of Alberta, where I've honed my skills in Python, Java, and C#. My journey has taken me from crafting Generative AI at Huawei Technologies Canada Co. Ltd. to building ChatBots at The Metabolomics Innovation Centre and developing Convolutional Neural Networks as a researcher at UAlberta. 💻 In addition to my academic and research pursuits, I have hands-on experience in software engineering. I've contributed to mobile application development at My Viva Inc. and worked on innovative solutions as a developer at the Rehabilitation Robotics Laboratory. 🚀 I'm always eager to learn, collaborate, and explore new technologies. My GitHub repositories reflect my passion for tackling challenging problems and creating impactful solutions. Let's connect and collaborate on exciting projects together!
+👋 Hi there! I'm Navdeep Singh, a Computer Science major with a passion for leveraging technology to solve real-world problems. With a background in Machine Learning and Artificial Intelligence, I'm deeply immersed in the world of software development and data science. 
+
+🎓 I hold a degree in Computer Science with a minor in Bioinformatics from the University of Alberta, where I've honed my skills in Python, Java, and C#. My journey has taken me from crafting Generative AI at Huawei Technologies Canada Co. Ltd. to building ChatBots at The Metabolomics Innovation Centre and developing Convolutional Neural Networks as a researcher at UAlberta. 
+
+💻 In addition to my academic and research pursuits, I have hands-on experience in software engineering. I've contributed to mobile application development at My Viva Inc. and worked on innovative solutions as a developer at the Rehabilitation Robotics Laboratory. 
+
+🚀 I'm always eager to learn, collaborate, and explore new technologies. My GitHub repositories reflect my passion for tackling challenging problems and creating impactful solutions. Let's connect and collaborate on exciting projects together!
 
 * 🌍  I'm based in Canada
 * 🖥️  See my portfolio at [My Portfolio](http://timely-pavlova-5d55dc.netlify.app/)
@@ -24,11 +30,6 @@ Computer Science and Bioinformatics Student
 
 <p align="left"> <a href="https://www.github.com/navdeep5" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/navdeep5" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a></p>
 
-### Badges
-
-<b>My GitHub Stats</b>
-
-<a href="http://www.github.com/navdeep5"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=navdeep5&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 
 <!--
 **navdeep5/navdeep5** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
